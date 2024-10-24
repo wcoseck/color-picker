@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+Link to Netlify: https://cosmic-semolina-866ac1.netlify.app
